@@ -1,0 +1,483 @@
+[
+    {
+      "name": "Tech Innovations Ltd.",
+      "location": "New York, USA",
+      "founded": 2000,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e60" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e61" }
+      ]
+    },
+    {
+      "name": "Digital World Enterprises",
+      "location": "London, UK",
+      "founded": 1995,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e62" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e63" }
+      ]
+    },
+    {
+      "name": "Smart Solutions Inc.",
+      "location": "San Francisco, USA",
+      "founded": 2010,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e64" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e65" }
+      ]
+    },
+    {
+      "name": "Global Tech Co.",
+      "location": "Berlin, Germany",
+      "founded": 2005,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e66" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e67" }
+      ]
+    },
+    {
+      "name": "InnovateX Ltd.",
+      "location": "Toronto, Canada",
+      "founded": 2012,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e68" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e69" }
+      ]
+    },
+    {
+      "name": "NextGen Technologies",
+      "location": "Sydney, Australia",
+      "founded": 2008,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6a" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6b" }
+      ]
+    },
+    {
+      "name": "FutureLabs",
+      "location": "Toronto, Canada",
+      "founded": 2015,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6c" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6d" }
+      ]
+    },
+    {
+      "name": "TechPioneers Inc.",
+      "location": "Singapore",
+      "founded": 2017,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6e" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e6f" }
+      ]
+    },
+    {
+      "name": "Innovation Hub",
+      "location": "San Francisco, USA",
+      "founded": 2009,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e70" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e71" }
+      ]
+    },
+    {
+      "name": "TechGiant Corp.",
+      "location": "London, UK",
+      "founded": 1998,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e72" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e73" }
+      ]
+    },
+    {
+      "name": "NextEra Tech",
+      "location": "San Francisco, USA",
+      "founded": 2014,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e74" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e75" }
+      ]
+    },
+    {
+      "name": "Cloud Solutions Inc.",
+      "location": "Dubai, UAE",
+      "founded": 2013,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e76" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e77" }
+      ]
+    },
+    {
+      "name": "CyberTech Innovations",
+      "location": "Berlin, Germany",
+      "founded": 2007,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e78" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e79" }
+      ]
+    },
+    {
+      "name": "GreenTech Solutions",
+      "location": "Chicago, USA",
+      "founded": 2010,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7a" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7b" }
+      ]
+    },
+    {
+      "name": "Quantum Computing Inc.",
+      "location": "Boston, USA",
+      "founded": 2016,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7c" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7d" }
+      ]
+    },
+    {
+      "name": "Blockchain Technologies",
+      "location": "Toronto, Canada",
+      "founded": 2019,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7e" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e7f" }
+      ]
+    },
+    {
+      "name": "DataSolutions Ltd.",
+      "location": "Paris, France",
+      "founded": 2018,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e80" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e81" }
+      ]
+    },
+    {
+      "name": "Future Vision Inc.",
+      "location": "Sydney, Australia",
+      "founded": 2020,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e82" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e83" }
+      ]
+    },
+    {
+      "name": "TechWorld Ventures",
+      "location": "Paris, France",
+      "founded": 2015,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e84" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e85" }
+      ]
+    },
+    {
+      "name": "Innovation Sphere Ltd.",
+      "location": "Madrid, Spain",
+      "founded": 2014,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e86" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e87" }
+      ]
+    },
+    {
+      "name": "Autonomous Tech Corp.",
+      "location": "Los Angeles, USA",
+      "founded": 2021,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e88" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e89" }
+      ]
+    },
+    {
+      "name": "CloudNet Innovations",
+      "location": "Chicago, USA",
+      "founded": 2005,
+      "posted_jobs": [
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e8a" },
+        { "$oid": "5f9d8e2e1c4f6c35b3c40e8b" }
+      ]
+    },
+        {
+          "name": "ByteCraft Technologies",
+          "location": "San Francisco, USA",
+          "founded": 2014,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40e9e" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40e9f" }
+          ]
+        },
+        {
+          "name": "InnoTech Innovations",
+          "location": "London, UK",
+          "founded": 2012,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea0" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea1" }
+          ]
+        },
+        {
+          "name": "VeloTech Systems",
+          "location": "Berlin, Germany",
+          "founded": 2007,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea2" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea3" }
+          ]
+        },
+        {
+          "name": "StreamLine Solutions",
+          "location": "Toronto, Canada",
+          "founded": 2011,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea4" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea5" }
+          ]
+        },
+        {
+          "name": "VividTech Enterprises",
+          "location": "New York, USA",
+          "founded": 2010,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea6" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea7" }
+          ]
+        },
+        {
+          "name": "BrightFuture Technologies",
+          "location": "Sydney, Australia",
+          "founded": 2008,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea8" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ea9" }
+          ]
+        },
+        {
+          "name": "TechBridge Solutions",
+          "location": "Paris, France",
+          "founded": 2013,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eaa" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eab" }
+          ]
+        },
+        {
+          "name": "FuturePath Technologies",
+          "location": "Los Angeles, USA",
+          "founded": 2015,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eac" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ead" }
+          ]
+        },
+        {
+          "name": "InfinityTech Solutions",
+          "location": "San Francisco, USA",
+          "founded": 2009,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eae" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eaf" }
+          ]
+        },
+        {
+          "name": "Visionary Systems",
+          "location": "Tokyo, Japan",
+          "founded": 2016,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb0" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb1" }
+          ]
+        },
+        {
+          "name": "EpicTech Solutions",
+          "location": "London, UK",
+          "founded": 2017,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb2" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb3" }
+          ]
+        },
+        {
+          "name": "InnovativeSoft Solutions",
+          "location": "Berlin, Germany",
+          "founded": 2014,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb4" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb5" }
+          ]
+        },
+        {
+          "name": "GlobalEdge Technologies",
+          "location": "Toronto, Canada",
+          "founded": 2006,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb6" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb7" }
+          ]
+        },
+        {
+          "name": "TechPulse Innovations",
+          "location": "San Francisco, USA",
+          "founded": 2005,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb8" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eb9" }
+          ]
+        },
+        {
+          "name": "SwiftNet Solutions",
+          "location": "New York, USA",
+          "founded": 2012,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40eba" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ebb" }
+          ]
+        },
+        {
+          "name": "QuantumTech Enterprises",
+          "location": "Berlin, Germany",
+          "founded": 2015,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ebc" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ebd" }
+          ]
+        },
+        {
+          "name": "BrightMind Solutions",
+          "location": "Sydney, Australia",
+          "founded": 2008,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ebe" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ebf" }
+          ]
+        },
+        {
+          "name": "SkyLine Systems",
+          "location": "Paris, France",
+          "founded": 2007,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec0" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec1" }
+          ]
+        },
+        {
+          "name": "CosmoTech Innovations",
+          "location": "San Francisco, USA",
+          "founded": 2010,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec2" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec3" }
+          ]
+        },
+        {
+          "name": "CloudVerse Technologies",
+          "location": "Toronto, Canada",
+          "founded": 2014,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec4" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec5" }
+          ]
+        },
+        {
+          "name": "InspireTech Solutions",
+          "location": "London, UK",
+          "founded": 2011,
+          "posted_jobs": [
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec6" },
+            { "$oid": "5f9d8e2e1c4f6c35b3c40ec7" }
+          ]
+        },
+            {
+              "name": "TechBlaze Solutions",
+              "location": "Los Angeles, USA",
+              "founded": 2013,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ec8" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ec9" }
+              ]
+            },
+            {
+              "name": "SkyTech Innovations",
+              "location": "San Francisco, USA",
+              "founded": 2016,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40eca" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ecb" }
+              ]
+            },
+            {
+              "name": "UltraNet Systems",
+              "location": "New York, USA",
+              "founded": 2009,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ecc" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ecd" }
+              ]
+            },
+            {
+              "name": "FusionTech Enterprises",
+              "location": "Paris, France",
+              "founded": 2010,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ece" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ecf" }
+              ]
+            },
+            {
+              "name": "AlphaTech Systems",
+              "location": "London, UK",
+              "founded": 2007,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed0" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed1" }
+              ]
+            },
+            {
+              "name": "GlobalTech Solutions",
+              "location": "Toronto, Canada",
+              "founded": 2015,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed2" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed3" }
+              ]
+            },
+            {
+              "name": "NextGen Systems",
+              "location": "Berlin, Germany",
+              "founded": 2011,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed4" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed5" }
+              ]
+            },
+            {
+              "name": "TechCore Solutions",
+              "location": "Tokyo, Japan",
+              "founded": 2014,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed6" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed7" }
+              ]
+            },
+            {
+              "name": "Innovative Ventures",
+              "location": "Sydney, Australia",
+              "founded": 2008,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed8" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40ed9" }
+              ]
+            },
+            {
+              "name": "DigitalMatrix Solutions",
+              "location": "Los Angeles, USA",
+              "founded": 2006,
+              "posted_jobs": [
+                { "$oid": "5f9d8e2e1c4f6c35b3c40eda" },
+                { "$oid": "5f9d8e2e1c4f6c35b3c40edb" }
+              ]
+            }
+          ]
+          
+
+      
+  

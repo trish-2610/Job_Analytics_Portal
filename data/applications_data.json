@@ -1,0 +1,312 @@
+[
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e53" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40c11" },
+      "applied_on": { "$date": "2024-01-10T00:00:00Z" },
+      "status": "Pending"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e54" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e12" },
+      "applied_on": { "$date": "2023-11-25T00:00:00Z" },
+      "status": "Reviewed"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e55" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e13" },
+      "applied_on": { "$date": "2023-12-17T00:00:00Z" },
+      "status": "Interviewed"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e56" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e14" },
+      "applied_on": { "$date": "2023-09-12T00:00:00Z" },
+      "status": "Rejected"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e57" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e15" },
+      "applied_on": { "$date": "2023-06-01T00:00:00Z" },
+      "status": "Hired"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e58" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e16" },
+      "applied_on": { "$date": "2023-11-10T00:00:00Z" },
+      "status": "Pending"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e59" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e17" },
+      "applied_on": { "$date": "2023-07-30T00:00:00Z" },
+      "status": "Reviewed"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5a" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e18" },
+      "applied_on": { "$date": "2023-10-15T00:00:00Z" },
+      "status": "Interviewed"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5b" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e19" },
+      "applied_on": { "$date": "2023-05-10T00:00:00Z" },
+      "status": "Rejected"
+    },
+    {
+      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5c" },
+      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e20" },
+      "applied_on": { "$date": "2023-03-30T00:00:00Z" },
+      "status": "Hired"
+    },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5d" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e21" },
+          "applied_on": { "$date": "2023-11-01T00:00:00Z" },
+          "status": "Pending"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5e" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e22" },
+          "applied_on": { "$date": "2023-12-01T00:00:00Z" },
+          "status": "Reviewed"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e5f" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e23" },
+          "applied_on": { "$date": "2023-06-25T00:00:00Z" },
+          "status": "Interviewed"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e60" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e24" },
+          "applied_on": { "$date": "2023-08-20T00:00:00Z" },
+          "status": "Rejected"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e61" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e25" },
+          "applied_on": { "$date": "2023-07-05T00:00:00Z" },
+          "status": "Hired"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e62" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e26" },
+          "applied_on": { "$date": "2023-06-15T00:00:00Z" },
+          "status": "Pending"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e63" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e27" },
+          "applied_on": { "$date": "2023-05-01T00:00:00Z" },
+          "status": "Reviewed"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e64" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e28" },
+          "applied_on": { "$date": "2023-04-10T00:00:00Z" },
+          "status": "Interviewed"
+        },
+        {
+          "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e65" },
+          "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e29" },
+          "applied_on": { "$date": "2023-03-20T00:00:00Z" },
+          "status": "Rejected"
+        },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e66" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e30" },
+              "applied_on": { "$date": "2023-02-10T00:00:00Z" },
+              "status": "Hired"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e67" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e31" },
+              "applied_on": { "$date": "2023-08-30T00:00:00Z" },
+              "status": "Pending"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e68" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e32" },
+              "applied_on": { "$date": "2023-11-25T00:00:00Z" },
+              "status": "Reviewed"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e69" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e33" },
+              "applied_on": { "$date": "2023-10-05T00:00:00Z" },
+              "status": "Interviewed"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6a" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e34" },
+              "applied_on": { "$date": "2023-07-18T00:00:00Z" },
+              "status": "Rejected"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6b" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e35" },
+              "applied_on": { "$date": "2023-03-15T00:00:00Z" },
+              "status": "Hired"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6c" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e36" },
+              "applied_on": { "$date": "2023-05-25T00:00:00Z" },
+              "status": "Pending"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6d" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e37" },
+              "applied_on": { "$date": "2023-09-02T00:00:00Z" },
+              "status": "Reviewed"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6e" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e38" },
+              "applied_on": { "$date": "2023-08-22T00:00:00Z" },
+              "status": "Interviewed"
+            },
+            {
+              "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e6f" },
+              "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e39" },
+              "applied_on": { "$date": "2023-07-13T00:00:00Z" },
+              "status": "Rejected"
+            },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e70" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e40" },
+                  "applied_on": { "$date": "2023-06-05T00:00:00Z" },
+                  "status": "Hired"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e71" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e41" },
+                  "applied_on": { "$date": "2023-11-18T00:00:00Z" },
+                  "status": "Pending"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e72" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e42" },
+                  "applied_on": { "$date": "2023-08-30T00:00:00Z" },
+                  "status": "Reviewed"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e73" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e43" },
+                  "applied_on": { "$date": "2023-09-28T00:00:00Z" },
+                  "status": "Interviewed"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e74" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e44" },
+                  "applied_on": { "$date": "2023-06-12T00:00:00Z" },
+                  "status": "Rejected"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e75" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e45" },
+                  "applied_on": { "$date": "2023-04-20T00:00:00Z" },
+                  "status": "Hired"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e76" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e46" },
+                  "applied_on": { "$date": "2023-05-05T00:00:00Z" },
+                  "status": "Pending"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e77" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e47" },
+                  "applied_on": { "$date": "2023-03-05T00:00:00Z" },
+                  "status": "Reviewed"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e78" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e48" },
+                  "applied_on": { "$date": "2023-06-10T00:00:00Z" },
+                  "status": "Interviewed"
+                },
+                {
+                  "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e79" },
+                  "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e49" },
+                  "applied_on": { "$date": "2023-07-22T00:00:00Z" },
+                  "status": "Rejected"
+                },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e70" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e40" },
+                      "applied_on": { "$date": "2023-06-05T00:00:00Z" },
+                      "status": "Hired"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e71" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e41" },
+                      "applied_on": { "$date": "2023-11-18T00:00:00Z" },
+                      "status": "Pending"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e72" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e42" },
+                      "applied_on": { "$date": "2023-08-30T00:00:00Z" },
+                      "status": "Reviewed"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e73" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e43" },
+                      "applied_on": { "$date": "2023-09-28T00:00:00Z" },
+                      "status": "Interviewed"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e74" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e44" },
+                      "applied_on": { "$date": "2023-06-12T00:00:00Z" },
+                      "status": "Rejected"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e75" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e45" },
+                      "applied_on": { "$date": "2023-04-20T00:00:00Z" },
+                      "status": "Hired"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e76" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e46" },
+                      "applied_on": { "$date": "2023-05-05T00:00:00Z" },
+                      "status": "Pending"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e77" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e47" },
+                      "applied_on": { "$date": "2023-03-05T00:00:00Z" },
+                      "status": "Reviewed"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e78" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e48" },
+                      "applied_on": { "$date": "2023-06-10T00:00:00Z" },
+                      "status": "Interviewed"
+                    },
+                    {
+                      "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e79" },
+                      "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e49" },
+                      "applied_on": { "$date": "2023-07-22T00:00:00Z" },
+                      "status": "Rejected"
+                    },
+                    {
+                        "job_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e79" },
+                        "candidate_id": { "$oid": "5f9d8e2e1c4f6c35b3c40e49" },
+                        "applied_on": { "$date": "2023-07-22T00:00:00Z" },
+                        "status": "Rejected"
+                    }
+                  ]
+                  
+
+              
+          
+          
+      
+  
+          
+      
+  

@@ -1,0 +1,561 @@
+                [
+                    {
+                    "title": "Software Engineer",
+                    "company": "TechNova",
+                    "location": "New York",
+                    "salary": 85000,
+                    "type": "Full_Time",
+                    "posted_on": { "$date": "2024-03-10T00:00:00Z" },
+                    "skills_required": ["JavaScript", "Node.js", "MongoDB"],
+                    "experience_required": 2,
+                    "remote": false
+                    },
+                    {
+                    "title": "Data Analyst",
+                    "company": "DataWave",
+                    "location": "San Francisco",
+                    "salary": 76000,
+                    "type": "Part_time",
+                    "posted_on": { "$date": "2024-02-15T00:00:00Z" },
+                    "skills_required": ["SQL", "Python", "Excel"],
+                    "experience_required": 1,
+                    "remote": true
+                    },
+                    {
+                    "title": "Backend Developer Intern",
+                    "company": "InnoLogic",
+                    "location": "Austin",
+                    "salary": 20000,
+                    "type": "Internship",
+                    "posted_on": { "$date": "2025-01-01T00:00:00Z" },
+                    "skills_required": ["Node.js", "Express", "MongoDB"],
+                    "experience_required": 0,
+                    "remote": true
+                    },
+                    {
+                    "title": "Frontend Developer",
+                    "company": "CloudSprint",
+                    "location": "Seattle",
+                    "salary": 92000,
+                    "type": "Full_Time",
+                    "posted_on": { "$date": "2023-11-23T00:00:00Z" },
+                    "skills_required": ["HTML", "CSS", "React"],
+                    "experience_required": 3,
+                    "remote": false
+                    },
+                    {
+                    "title": "ML Engineer",
+                    "company": "AlgoEdge",
+                    "location": "Chicago",
+                    "salary": 115000,
+                    "type": "Full_Time",
+                    "posted_on": { "$date": "2024-12-30T00:00:00Z" },
+                    "skills_required": ["Python", "TensorFlow", "Data Science"],
+                    "experience_required": 2,
+                    "remote": false
+                    },
+                    {
+                        "title": "DevOps Engineer",
+                        "company": "InfraTech",
+                        "location": "Boston",
+                        "salary": 98000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2024-04-05T00:00:00Z" },
+                        "skills_required": ["AWS", "Docker", "Kubernetes"],
+                        "experience_required": 3,
+                        "remote": true
+                        },
+                        {
+                        "title": "UI/UX Designer",
+                        "company": "PixelEdge",
+                        "location": "Los Angeles",
+                        "salary": 72000,
+                        "type": "Part_time",
+                        "posted_on": { "$date": "2024-05-01T00:00:00Z" },
+                        "skills_required": ["Figma", "Adobe XD", "User Research"],
+                        "experience_required": 2,
+                        "remote": false
+                        },
+                        {
+                        "title": "Data Scientist",
+                        "company": "DeepStats",
+                        "location": "San Diego",
+                        "salary": 110000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2023-08-12T00:00:00Z" },
+                        "skills_required": ["Python", "Machine Learning", "Pandas"],
+                        "experience_required": 4,
+                        "remote": false
+                        },
+                        {
+                        "title": "System Administrator",
+                        "company": "SecureNet",
+                        "location": "Dallas",
+                        "salary": 69000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2024-06-18T00:00:00Z" },
+                        "skills_required": ["Linux", "Networking", "Shell Scripting"],
+                        "experience_required": 2,
+                        "remote": false
+                        },
+                        {
+                        "title": "Mobile App Developer",
+                        "company": "Appsmiths",
+                        "location": "Miami",
+                        "salary": 88000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2023-10-30T00:00:00Z" },
+                        "skills_required": ["Flutter", "Dart", "Firebase"],
+                        "experience_required": 2,
+                        "remote": true
+                        },
+                        {
+                        "title": "IT Support Specialist",
+                        "company": "TechAssist",
+                        "location": "Atlanta",
+                        "salary": 54000,
+                        "type": "Training",
+                        "posted_on": { "$date": "2023-12-05T00:00:00Z" },
+                        "skills_required": ["Hardware", "Troubleshooting", "Customer Support"],
+                        "experience_required": 1,
+                        "remote": false
+                        },
+                        {
+                        "title": "Business Analyst",
+                        "company": "StratEdge",
+                        "location": "Denver",
+                        "salary": 79000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2024-02-21T00:00:00Z" },
+                        "skills_required": ["Excel", "Power BI", "Stakeholder Management"],
+                        "experience_required": 2,
+                        "remote": true
+                        },
+                        {
+                        "title": "Graphic Designer",
+                        "company": "DesignVerse",
+                        "location": "Portland",
+                        "salary": 60000,
+                        "type": "Part_time",
+                        "posted_on": { "$date": "2024-01-17T00:00:00Z" },
+                        "skills_required": ["Illustrator", "Photoshop", "Canva"],
+                        "experience_required": 1,
+                        "remote": true
+                        },
+                        {
+                        "title": "Cloud Engineer",
+                        "company": "SkyNetics",
+                        "location": "Phoenix",
+                        "salary": 102000,
+                        "type": "Full_Time",
+                        "posted_on": { "$date": "2023-07-20T00:00:00Z" },
+                        "skills_required": ["Azure", "AWS", "Terraform"],
+                        "experience_required": 3,
+                        "remote": false
+                        },
+                        {
+                        "title": "AI Research Assistant",
+                        "company": "NeuroSoft",
+                        "location": "Pittsburgh",
+                        "salary": 92000,
+                        "type": "Internship",
+                        "posted_on": { "$date": "2024-03-28T00:00:00Z" },
+                        "skills_required": ["NLP", "Python", "PyTorch"],
+                        "experience_required": 1,
+                        "remote": true
+                        },
+                            {
+                            "title": "Cybersecurity Analyst",
+                            "company": "CyberFort",
+                            "location": "Houston",
+                            "salary": 96000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2024-02-05T00:00:00Z" },
+                            "skills_required": ["Network Security", "Firewalls", "SIEM"],
+                            "experience_required": 3,
+                            "remote": false
+                            },
+                            {
+                            "title": "Content Writer",
+                            "company": "WriteWise",
+                            "location": "Remote",
+                            "salary": 45000,
+                            "type": "Part_time",
+                            "posted_on": { "$date": "2023-09-15T00:00:00Z" },
+                            "skills_required": ["SEO", "Blog Writing", "Copywriting"],
+                            "experience_required": 1,
+                            "remote": true
+                            },
+                            {
+                            "title": "Product Manager",
+                            "company": "ProdMaster",
+                            "location": "Chicago",
+                            "salary": 125000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2024-01-10T00:00:00Z" },
+                            "skills_required": ["Agile", "Scrum", "Roadmapping"],
+                            "experience_required": 4,
+                            "remote": false
+                            },
+                            {
+                            "title": "QA Tester",
+                            "company": "BugSquashers",
+                            "location": "Raleigh",
+                            "salary": 67000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2023-11-05T00:00:00Z" },
+                            "skills_required": ["Selenium", "Test Cases", "JIRA"],
+                            "experience_required": 2,
+                            "remote": false
+                            },
+                            {
+                            "title": "Blockchain Developer",
+                            "company": "ChainBase",
+                            "location": "San Jose",
+                            "salary": 134000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2024-05-11T00:00:00Z" },
+                            "skills_required": ["Solidity", "Ethereum", "Smart Contracts"],
+                            "experience_required": 3,
+                            "remote": true
+                            },
+                            {
+                            "title": "HR Manager",
+                            "company": "PeopleFirst",
+                            "location": "Philadelphia",
+                            "salary": 88000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2023-06-25T00:00:00Z" },
+                            "skills_required": ["Recruitment", "Employee Engagement", "Compliance"],
+                            "experience_required": 5,
+                            "remote": false
+                            },
+                            {
+                            "title": "Database Administrator",
+                            "company": "DataCore",
+                            "location": "Detroit",
+                            "salary": 97000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2024-04-14T00:00:00Z" },
+                            "skills_required": ["SQL", "MongoDB", "Performance Tuning"],
+                            "experience_required": 4,
+                            "remote": false
+                            },
+                            {
+                            "title": "Game Developer",
+                            "company": "PlayForge",
+                            "location": "Los Angeles",
+                            "salary": 95000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2023-12-19T00:00:00Z" },
+                            "skills_required": ["Unity", "C#", "Game Design"],
+                            "experience_required": 2,
+                            "remote": true
+                            },
+                            {
+                            "title": "Technical Support Engineer",
+                            "company": "HelpLink",
+                            "location": "Phoenix",
+                            "salary": 61000,
+                            "type": "Training",
+                            "posted_on": { "$date": "2024-06-01T00:00:00Z" },
+                            "skills_required": ["Customer Support", "Troubleshooting", "CRM"],
+                            "experience_required": 1,
+                            "remote": false
+                            },
+                            {
+                            "title": "Full Stack Developer",
+                            "company": "DevSync",
+                            "location": "Austin",
+                            "salary": 105000,
+                            "type": "Full_Time",
+                            "posted_on": { "$date": "2024-03-07T00:00:00Z" },
+                            "skills_required": ["React", "Node.js", "MongoDB"],
+                            "experience_required": 3,
+                            "remote": true
+                            },
+                                {
+                                "title": "AI Researcher",
+                                "company": "DeepThink",
+                                "location": "Boston",
+                                "salary": 160000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2024-01-25T00:00:00Z" },
+                                "skills_required": ["TensorFlow", "Deep Learning", "Research Papers"],
+                                "experience_required": 5,
+                                "remote": false
+                                },
+                                {
+                                "title": "Junior Frontend Developer",
+                                "company": "CodeSpark",
+                                "location": "Jaipur",
+                                "salary": 45000,
+                                "type": "Internship",
+                                "posted_on": { "$date": "2024-04-20T00:00:00Z" },
+                                "skills_required": ["HTML", "CSS", "JavaScript"],
+                                "experience_required": 0,
+                                "remote": false
+                                },
+                                {
+                                "title": "SEO Executive",
+                                "company": "Rankify",
+                                "location": "Chandigarh",
+                                "salary": 50000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2023-10-05T00:00:00Z" },
+                                "skills_required": ["SEO", "Google Analytics", "Keyword Research"],
+                                "experience_required": 2,
+                                "remote": true
+                                },
+                                {
+                                "title": "UI/UX Designer",
+                                "company": "PixelPerfect",
+                                "location": "Delhi",
+                                "salary": 85000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2024-03-01T00:00:00Z" },
+                                "skills_required": ["Figma", "Prototyping", "Design Systems"],
+                                "experience_required": 3,
+                                "remote": false
+                                },
+                                {
+                                "title": "Cloud Engineer",
+                                "company": "SkyNet",
+                                "location": "Hyderabad",
+                                "salary": 120000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2024-01-12T00:00:00Z" },
+                                "skills_required": ["AWS", "DevOps", "Docker"],
+                                "experience_required": 4,
+                                "remote": true
+                                },
+                                {
+                                "title": "Business Analyst",
+                                "company": "BizInsights",
+                                "location": "Mumbai",
+                                "salary": 90000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2023-11-20T00:00:00Z" },
+                                "skills_required": ["Excel", "Power BI", "Requirement Gathering"],
+                                "experience_required": 3,
+                                "remote": false
+                                },
+                                {
+                                "title": "Mobile App Developer",
+                                "company": "AppWizards",
+                                "location": "Bangalore",
+                                "salary": 98000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2024-02-28T00:00:00Z" },
+                                "skills_required": ["Flutter", "React Native", "API Integration"],
+                                "experience_required": 2,
+                                "remote": true
+                                },
+                                {
+                                "title": "System Administrator",
+                                "company": "TechGrid",
+                                "location": "Ahmedabad",
+                                "salary": 87000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2023-08-16T00:00:00Z" },
+                                "skills_required": ["Linux", "Networking", "Shell Scripting"],
+                                "experience_required": 4,
+                                "remote": false
+                                },
+                                {
+                                "title": "Graphic Designer",
+                                "company": "DesignScape",
+                                "location": "Pune",
+                                "salary": 60000,
+                                "type": "Part_time",
+                                "posted_on": { "$date": "2024-04-08T00:00:00Z" },
+                                "skills_required": ["Illustrator", "Photoshop", "Branding"],
+                                "experience_required": 2,
+                                "remote": true
+                                },
+                                {
+                                "title": "Data Engineer",
+                                "company": "DataStream",
+                                "location": "Noida",
+                                "salary": 110000,
+                                "type": "Full_Time",
+                                "posted_on": { "$date": "2024-05-02T00:00:00Z" },
+                                "skills_required": ["ETL", "SQL", "Python"],
+                                "experience_required": 3,
+                                "remote": false
+                                },
+                                    {
+                                    "title": "Sales Executive",
+                                    "company": "SalesForce",
+                                    "location": "New York",
+                                    "salary": 75000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2023-12-23T00:00:00Z" },
+                                    "skills_required": ["Sales", "Negotiation", "CRM"],
+                                    "experience_required": 3,
+                                    "remote": false
+                                    },
+                                    {
+                                    "title": "Network Engineer",
+                                    "company": "NetSolutions",
+                                    "location": "Austin",
+                                    "salary": 92000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-01-30T00:00:00Z" },
+                                    "skills_required": ["Routing", "Switching", "Network Security"],
+                                    "experience_required": 4,
+                                    "remote": false
+                                    },
+                                    {
+                                    "title": "Frontend Developer",
+                                    "company": "TechDesigns",
+                                    "location": "London",
+                                    "salary": 105000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-03-12T00:00:00Z" },
+                                    "skills_required": ["React", "Vue.js", "JavaScript"],
+                                    "experience_required": 3,
+                                    "remote": true
+                                    },
+                                    {
+                                    "title": "HR Specialist",
+                                    "company": "PeopleCare",
+                                    "location": "Dubai",
+                                    "salary": 78000,
+                                    "type": "Part_time",
+                                    "posted_on": { "$date": "2023-09-10T00:00:00Z" },
+                                    "skills_required": ["Recruitment", "Employee Relations", "Conflict Resolution"],
+                                    "experience_required": 2,
+                                    "remote": false
+                                    },
+                                    {
+                                    "title": "Data Scientist",
+                                    "company": "DataVision",
+                                    "location": "San Francisco",
+                                    "salary": 130000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-03-30T00:00:00Z" },
+                                    "skills_required": ["Machine Learning", "Python", "Statistics"],
+                                    "experience_required": 3,
+                                    "remote": true
+                                    },
+                                    {
+                                    "title": "DevOps Engineer",
+                                    "company": "CloudTech",
+                                    "location": "Chicago",
+                                    "salary": 115000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-01-05T00:00:00Z" },
+                                    "skills_required": ["Kubernetes", "AWS", "CI/CD"],
+                                    "experience_required": 4,
+                                    "remote": false
+                                    },
+                                    {
+                                    "title": "Digital Marketing Specialist",
+                                    "company": "AdWorld",
+                                    "location": "Bangalore",
+                                    "salary": 65000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-02-10T00:00:00Z" },
+                                    "skills_required": ["SEO", "PPC", "Social Media Marketing"],
+                                    "experience_required": 2,
+                                    "remote": true
+                                    },
+                                    {
+                                    "title": "Machine Learning Engineer",
+                                    "company": "AI Tech",
+                                    "location": "Seattle",
+                                    "salary": 145000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-03-21T00:00:00Z" },
+                                    "skills_required": ["TensorFlow", "Scikit-learn", "Data Engineering"],
+                                    "experience_required": 4,
+                                    "remote": true
+                                    },
+                                    {
+                                    "title": "Software Engineer",
+                                    "company": "SoftWareX",
+                                    "location": "Los Angeles",
+                                    "salary": 110000,
+                                    "type": "Full_Time",
+                                    "posted_on": { "$date": "2024-02-03T00:00:00Z" },
+                                    "skills_required": ["Java", "Spring", "MySQL"],
+                                    "experience_required": 3,
+                                    "remote": false
+                                    },
+                                    {
+                                    "title": "Video Editor",
+                                    "company": "Vision Studios",
+                                    "location": "Miami",
+                                    "salary": 58000,
+                                    "type": "Part_time",
+                                    "posted_on": { "$date": "2023-11-12T00:00:00Z" },
+                                    "skills_required": ["Adobe Premiere", "Final Cut Pro", "Video Editing"],
+                                    "experience_required": 2,
+                                    "remote": true
+                                    },
+                                        {
+                                        "title": "Technical Writer",
+                                        "company": "TechWrite",
+                                        "location": "San Jose",
+                                        "salary": 85000,
+                                        "type": "Full_Time",
+                                        "posted_on": { "$date": "2024-04-02T00:00:00Z" },
+                                        "skills_required": ["Documentation", "API Documentation", "Technical Writing"],
+                                        "experience_required": 3,
+                                        "remote": true
+                                        },
+                                        {
+                                        "title": "Quality Assurance Engineer",
+                                        "company": "TestCorp",
+                                        "location": "Austin",
+                                        "salary": 92000,
+                                        "type": "Full_Time",
+                                        "posted_on": { "$date": "2024-03-19T00:00:00Z" },
+                                        "skills_required": ["Testing", "Automation", "Selenium"],
+                                        "experience_required": 4,
+                                        "remote": false
+                                        },
+                                        {
+                                        "title": "Content Writer",
+                                        "company": "ContentHub",
+                                        "location": "London",
+                                        "salary": 55000,
+                                        "type": "Part_time",
+                                        "posted_on": { "$date": "2023-12-15T00:00:00Z" },
+                                        "skills_required": ["Writing", "SEO", "Content Marketing"],
+                                        "experience_required": 2,
+                                        "remote": true
+                                        },
+                                        {
+                                        "title": "Database Administrator",
+                                        "company": "DataSolutions",
+                                        "location": "Delhi",
+                                        "salary": 105000,
+                                        "type": "Full_Time",
+                                        "posted_on": { "$date": "2024-02-25T00:00:00Z" },
+                                        "skills_required": ["MySQL", "SQL Server", "Database Management"],
+                                        "experience_required": 5,
+                                        "remote": false
+                                        },
+                                        {
+                                        "title": "Cybersecurity Specialist",
+                                        "company": "SecureTech",
+                                        "location": "Toronto",
+                                        "salary": 125000,
+                                        "type": "Full_Time",
+                                        "posted_on": { "$date": "2024-01-09T00:00:00Z" },
+                                        "skills_required": ["Cybersecurity", "Penetration Testing", "Firewalls"],
+                                        "experience_required": 4,
+                                        "remote": true
+                                        }
+                ]
+                                
+                            
+                            
+                        
+                    
+                    
+
+                
+            
