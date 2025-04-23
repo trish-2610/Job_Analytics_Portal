@@ -67,21 +67,16 @@ db.applications.aggregate([
 // What is the distribution of applications over the months?
 db.applications.aggregate([
     {
-      $project: {
-        month: { $month: "$applied_on" }  
+      $group: {
+        _id: { $month: "$applied_on" },  
+        count: { $sum: 1 }               
       }
     },
     {
-      $group: {
-        _id: "$month" ,  
-        count: { $sum: 1 }  
-      }
-    },
-    { 
-      $sort : { _id: 1 }  
+      $sort: { _id: 1 }  
     }
   ])
-
+  
 // Which candidates have applied to the most jobs? List the top 5 candidates with the highest number of applications.
 db.applications.aggregate([
     {
