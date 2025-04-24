@@ -12,9 +12,9 @@ db.jobs.aggregate([
 ])
 // Result : 
 // Location : 'Austin', total_number_of_job_posting: 4 
-// Location : 'Los Angeles', total_number_of_job_posting: 3 },
-// Location : 'Chicago', total_number_of_job_posting: 3 },
-// Location : 'Phoenix', total_number_of_job_posting: 2 },
+// Location : 'Los Angeles', total_number_of_job_posting: 3 
+// Location : 'Chicago', total_number_of_job_posting: 3 
+// Location : 'Phoenix', total_number_of_job_posting: 2 
 // and more 
 
 
