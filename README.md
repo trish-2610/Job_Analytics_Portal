@@ -6,30 +6,7 @@ To analyze job market dynamics using MongoDB by exploring real-world job, compan
 
 ## 📁 Repository Structure
 
-##### Job_Analytics_Portal/
-##### ├── Analysis/
-#####   ├── MongoDB_queries/ 
-####      ├── applications_analysis.js
-#####     ├── candidates_analysis.js
-##### │   ├── companies_analysis.js
-##### │   └── jobs_analysis.js
-##### ├── Data/
-│   ├── applications_data.json
-│   ├── candidates_data.json
-│   ├── companies_data.json
-│   └── jobs_data.json
-├── Indexing/
-│   ├── applications_indexing.js
-│   ├── candidates_indexing.js
-│   ├── companies_indexing.js
-│   └── jobs_indexing.js
-├── Schema/
-│   ├── applications_schema.js
-│   ├── candidates_schema.js
-│   ├── companies_schema.js
-│   └── jobs_schema.js
-├── README.md
-└── LICENSE
+<pre> Job_Analytics_Portal/ ├── Analysis/ │ └── MongoDB_queries/ │ ├── applications_analysis.js │ ├── candidates_analysis.js │ ├── companies_analysis.js │ └── jobs_analysis.js ├── Data/ │ ├── applications_data.json │ ├── candidates_data.json │ ├── companies_data.json │ └── jobs_data.json ├── Indexing/ │ ├── applications_indexing.js │ ├── candidates_indexing.js │ ├── companies_indexing.js │ └── jobs_indexing.js ├── Schema/ │ ├── applications_schema.js │ ├── candidates_schema.js │ ├── companies_schema.js │ └── jobs_schema.js ├── README.md └── LICENSE </pre>
 
 ## 📌 Overall Conclusion
 
