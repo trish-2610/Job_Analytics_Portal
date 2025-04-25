@@ -8,11 +8,11 @@ To analyze job market dynamics using MongoDB by exploring real-world job, compan
 
 ##### Job_Analytics_Portal/
 ##### ├── Analysis/
-##### │   ├── MongoDB_queries/ 
-##### │   │   ├── applications_analysis.js
-##### │   │   ├── candidates_analysis.js
-##### │   │   ├── companies_analysis.js
-##### │   │   └── jobs_analysis.js
+#####   ├── MongoDB_queries/ 
+####      ├── applications_analysis.js
+#####     ├── candidates_analysis.js
+##### │   ├── companies_analysis.js
+##### │   └── jobs_analysis.js
 ##### ├── Data/
 │   ├── applications_data.json
 │   ├── candidates_data.json
