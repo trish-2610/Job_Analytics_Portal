@@ -71,6 +71,7 @@ db.applications.aggregate([
     }
   ])
 
+  
 // What is the most common status of job applications?
 db.applications.aggregate([
     {
